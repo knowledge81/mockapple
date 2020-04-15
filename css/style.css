@@ -1,0 +1,60 @@
+/* Body Font */
+body.helvetica {
+    Helvetica, sans serif;
+}
+
+/* Navbar Spacing */
+style.navbarspacing {
+    padding-left:60px; 
+    padding-right:60px;
+}
+
+/* Buy Button */
+.buybutton {
+    background-color:rgb(23, 30, 237); /* Blue */
+    color:white;
+    padding-left:15px; 
+    padding-right:15px;
+    padding-top:2px;
+    padding-bottom:2px;
+    text-align: center;
+    font-size: 16px;
+    margin: 4px 2px;
+    border-radius: 20px;
+}
+
+/* Container Padding */
+div.containerpadding {
+    border-bottom-style: groove; 
+    padding-top:35px; 
+    padding-bottom:35px; 
+    padding-right:60px;
+}
+
+span.pricing {
+    padding-left:80px; 
+    padding-top:5px; 
+    padding-right:80px;
+}
+
+/* Buttons */
+.buttonwhite {
+    background-color:white; /* White */
+    color: rgb(233, 166, 22);
+    border-color: rgb(233, 166, 22);
+    padding-left:15px; 
+    padding-right:15px;
+    text-align: center;
+    font-size: 16px;
+    margin: 4px 2px;
+    border-radius: 20px;
+}
+
+/* Environment Box Container */
+div.environment {
+border-style: solid;
+background-color: #ede6e6;
+border: none;
+padding: 20px;
+border-radius: 12px;
+}
